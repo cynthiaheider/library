@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj" id="fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="NEIGHBORHOOD" type="string"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="ADDRESS_NOTES" type="string"></SimpleField>
+	<SimpleField name="ZIP" type="int"></SimpleField>
+	<SimpleField name="DAY" type="string"></SimpleField>
+	<SimpleField name="TIME" type="string"></SimpleField>
+	<SimpleField name="MONTHS" type="string"></SimpleField>
+	<SimpleField name="ACCEPT_SNAP_ACCESS" type="string"></SimpleField>
+	<SimpleField name="ACCEPT_FMNP" type="string"></SimpleField>
+	<SimpleField name="ACCEPT_PHILLY_FOOD_BUCKS_" type="string"></SimpleField>
+	<SimpleField name="MAJOR_BUS_SUBWAY_ROUTES" type="string"></SimpleField>
+</Schema>
+<Folder><name>fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj</name>
+  <Placemark>
+	<name>Greensgrow Farm Stand</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Bridesburg/Kensington/Port Richmond</SimpleData>
+		<SimpleData name="ADDRESS">2501 E. Cumberland Ave</SimpleData>
+		<SimpleData name="ZIP">19125</SimpleData>
+		<SimpleData name="DAY">Thurs &amp; Sat</SimpleData>
+		<SimpleData name="TIME">Thurs: 3-7pm, Sat: 10am-2pm </SimpleData>
+		<SimpleData name="MONTHS">May - September</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">25, 39, 43, 89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1215584811801,39.9784309307864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Norris Square Neighborhood Project</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Bridesburg/Kensington/Port Richmond</SimpleData>
+		<SimpleData name="ADDRESS">Diamond St and N. Howard St</SimpleData>
+		<SimpleData name="ZIP">19122</SimpleData>
+		<SimpleData name="DAY">Thurs</SimpleData>
+		<SimpleData name="TIME">1pm - 3pm</SimpleData>
+		<SimpleData name="MONTHS">May - October</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">3, 39, 89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1339251692703,39.9817786436992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rittenhouse</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Center City</SimpleData>
+		<SimpleData name="ADDRESS">18th and Walnut St</SimpleData>
+		<SimpleData name="ZIP">19103</SimpleData>
+		<SimpleData name="DAY">Tues &amp; Sat</SimpleData>
+		<SimpleData name="TIME">Tues 10am-2pm, Sat 9am-3pm (may to Nov); 10am - 2pm (Dec to Apr)</SimpleData>
+		<SimpleData name="MONTHS">Tues- June 4th - November 26th; Sat- Year round: 9am - 3pm (May - end of November); 10am - 2pm (December - end of April)</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">9, 17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1706702802697,39.9501409326424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairmount</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Center City</SimpleData>
+		<SimpleData name="ADDRESS">22nd St. and Fairmount Ave.</SimpleData>
+		<SimpleData name="ZIP">19130</SimpleData>
+		<SimpleData name="DAY">Thurs</SimpleData>
+		<SimpleData name="TIME">3-7pm</SimpleData>
+		<SimpleData name="MONTHS">June 6th- November 27th</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">7, 32, 33, 48, PHLASH</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1739859733517,39.9673232257184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Francisville Artisan and Farmers Market</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Center City</SimpleData>
+		<SimpleData name="ADDRESS">1628-32 Ridge Ave</SimpleData>
+		<SimpleData name="ZIP">19130</SimpleData>
+		<SimpleData name="DAY">Sat</SimpleData>
+		<SimpleData name="TIME">10am - 2pm</SimpleData>
+		<SimpleData name="MONTHS">TBD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1640490804737,39.969819743816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Center City</SimpleData>
+		<SimpleData name="ADDRESS">10th and Chestnut St</SimpleData>
+		<SimpleData name="ZIP">19107</SimpleData>
+		<SimpleData name="DAY">Thurs</SimpleData>
+		<SimpleData name="TIME">11am-3pm</SimpleData>
+		<SimpleData name="MONTHS">mid-April - November 21st</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y </SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y </SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">MFL (8th or 11th st stop), 47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1570642206771,39.9500159958506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fitler Square Park</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Center City</SimpleData>
+		<SimpleData name="ADDRESS">23rd and Pine St</SimpleData>
+		<SimpleData name="ZIP">19103</SimpleData>
+		<SimpleData name="DAY">Sat</SimpleData>
+		<SimpleData name="TIME">9am-2pm</SimpleData>
+		<SimpleData name="MONTHS">Open year round</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">7, 12, 40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1793242367052,39.9473405553032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Headhouse</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Center City</SimpleData>
+		<SimpleData name="ADDRESS">2nd and Lombard St</SimpleData>
+		<SimpleData name="ZIP">19147</SimpleData>
+		<SimpleData name="DAY">Sun</SimpleData>
+		<SimpleData name="TIME">10am-2pm</SimpleData>
+		<SimpleData name="MONTHS">Open year round</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">12, 40, 57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1454519812647,39.9421693880093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Christ Church</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Center city</SimpleData>
+		<SimpleData name="ADDRESS">On Church St, between 2nd and 3rd Sts.</SimpleData>
+		<SimpleData name="ZIP">19106</SimpleData>
+		<SimpleData name="DAY">Wed</SimpleData>
+		<SimpleData name="TIME">2-7pm</SimpleData>
+		<SimpleData name="MONTHS">May 15 - October</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">48, 57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1445208921067,39.9506411408878</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Germantown Kitchen Garden</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Germantown/ Chestnut Hill</SimpleData>
+		<SimpleData name="ADDRESS">215 E. Penn St.</SimpleData>
+		<SimpleData name="ZIP">19144</SimpleData>
+		<SimpleData name="DAY">Sat</SimpleData>
+		<SimpleData name="TIME">9am-1pm</SimpleData>
+		<SimpleData name="MONTHS">May  - October</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1667706590431,40.0347342369781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Germantown &amp; Schoolhouse</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Germantown/ Chestnut Hill</SimpleData>
+		<SimpleData name="ADDRESS">Germantown Ave and E. Schoolhouse Lane</SimpleData>
+		<SimpleData name="ADDRESS_NOTES">In front of Market Square Park</SimpleData>
+		<SimpleData name="ZIP">19144</SimpleData>
+		<SimpleData name="DAY">Thurs</SimpleData>
+		<SimpleData name="TIME">3-7pm</SimpleData>
+		<SimpleData name="MONTHS">June 13th - October 31st</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.17271283364,40.0343748819149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Falls</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Germantown/ Chestnut Hill</SimpleData>
+		<SimpleData name="ADDRESS">4100 Ridge Ave</SimpleData>
+		<SimpleData name="ADDRESS_NOTES">In parking lot under Route 1</SimpleData>
+		<SimpleData name="ZIP">19129</SimpleData>
+		<SimpleData name="DAY">Sat</SimpleData>
+		<SimpleData name="TIME">10am-2pm</SimpleData>
+		<SimpleData name="MONTHS">May - November  </SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1916308430905,40.0079621518777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill Farmers’ Market</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Germantown/ Chestnut Hill</SimpleData>
+		<SimpleData name="ADDRESS">Winston Rd and Germantown Ave.</SimpleData>
+		<SimpleData name="ZIP">19118</SimpleData>
+		<SimpleData name="DAY">Sat</SimpleData>
+		<SimpleData name="TIME">9am – 1pm; 10am - 12pm</SimpleData>
+		<SimpleData name="MONTHS">Open year round: 9am - 1pm (May - end of November); 10am - 12pm (Dec-April)</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">23, 77, L, Chestnut Hill Line, Chestnut Hill West Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1967433059825,40.0673743887874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Liberty Lands Park</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Lower North </SimpleData>
+		<SimpleData name="ADDRESS">913 N. 3rd Street</SimpleData>
+		<SimpleData name="ZIP">19123</SimpleData>
+		<SimpleData name="DAY">Sat</SimpleData>
+		<SimpleData name="TIME">10am-2pm</SimpleData>
+		<SimpleData name="MONTHS">May 18th - October 26th</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1424390978197,39.9653429322191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cecil B. Moore</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">North</SimpleData>
+		<SimpleData name="ADDRESS">Cecil B. Moore Ave between Broad &amp; 13th St</SimpleData>
+		<SimpleData name="ZIP">19122</SimpleData>
+		<SimpleData name="DAY">Thurs</SimpleData>
+		<SimpleData name="TIME">2-6pm</SimpleData>
+		<SimpleData name="MONTHS">June 6th – November 21st</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">4, 16, BSS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1569016054698,39.9785247979212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hunting Park</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">North</SimpleData>
+		<SimpleData name="ADDRESS">W. Hunting Park Ave. and Old York Rd</SimpleData>
+		<SimpleData name="ZIP">19140</SimpleData>
+		<SimpleData name="DAY">Sat</SimpleData>
+		<SimpleData name="TIME">10am-2pm</SimpleData>
+		<SimpleData name="MONTHS">May 25th - November 23rd</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">BSS (Hunting Park stop), 4,23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1471857569694,40.0166186895481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Park and Tabor</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">North</SimpleData>
+		<SimpleData name="ADDRESS">N. Park Ave. and W. Tabor Rd</SimpleData>
+		<SimpleData name="ADDRESS_NOTES">Near Einstein Medical Center</SimpleData>
+		<SimpleData name="ZIP">19141</SimpleData>
+		<SimpleData name="DAY">Tues</SimpleData>
+		<SimpleData name="TIME">2-6pm</SimpleData>
+		<SimpleData name="MONTHS">May 21st - November 26th</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">18, 26, BSS</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1437604274493,40.0380560001882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4th and Lehigh</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">North</SimpleData>
+		<SimpleData name="ADDRESS">4th St &amp; Lehigh Ave.</SimpleData>
+		<SimpleData name="ZIP">19133</SimpleData>
+		<SimpleData name="DAY">Tues</SimpleData>
+		<SimpleData name="TIME">12-4pm</SimpleData>
+		<SimpleData name="MONTHS">June 18th - Sept 10th</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">47, 54</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1383539388355,39.9918609335467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33rd &amp; Dauphin</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">North</SimpleData>
+		<SimpleData name="ADDRESS">33rd &amp; Dauphin St</SimpleData>
+		<SimpleData name="ZIP">19121</SimpleData>
+		<SimpleData name="DAY">Wed</SimpleData>
+		<SimpleData name="TIME">2-6pm</SimpleData>
+		<SimpleData name="MONTHS">June 5th -November 13th</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">7, 32, 39, 54, 61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1863739909892,39.9917862435186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SHARE Nice Roots Farm</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">North</SimpleData>
+		<SimpleData name="ADDRESS">2901 W. Hunting Park Ave.</SimpleData>
+		<SimpleData name="ZIP">19129</SimpleData>
+		<SimpleData name="DAY">Tues &amp; Thurs</SimpleData>
+		<SimpleData name="TIME">2-4pm</SimpleData>
+		<SimpleData name="MONTHS">May - November</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">R</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1776438897279,40.0055765473145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North Front Street</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">North</SimpleData>
+		<SimpleData name="ADDRESS">North Front Street and Cecil B Moore Avenue</SimpleData>
+		<SimpleData name="ZIP">19122</SimpleData>
+		<SimpleData name="DAY">Sun</SimpleData>
+		<SimpleData name="TIME">10am-2pm</SimpleData>
+		<SimpleData name="MONTHS">June 2nd- October 27th</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1343356959974,39.9750022397976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26th and Allegheny</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">North</SimpleData>
+		<SimpleData name="ADDRESS">26th St and Allegheny Ave.</SimpleData>
+		<SimpleData name="ZIP">19129</SimpleData>
+		<SimpleData name="DAY">Wed</SimpleData>
+		<SimpleData name="TIME">12-4pm</SimpleData>
+		<SimpleData name="MONTHS">June 19th - September 11th</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">48, 60</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1722819412888,40.0040963680568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Frankford Transportation Center </name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Northeast</SimpleData>
+		<SimpleData name="ADDRESS">Frankford and Bustleton Ave.</SimpleData>
+		<SimpleData name="ZIP">19124</SimpleData>
+		<SimpleData name="DAY">Tues</SimpleData>
+		<SimpleData name="TIME">2-6pm</SimpleData>
+		<SimpleData name="MONTHS">June 11th - October 29th </SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">MFL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0768437040259,40.0232670645821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caster &amp; Hellerman (Oxford Circle)</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Northeast</SimpleData>
+		<SimpleData name="ADDRESS">Castor Ave &amp; Hellerman St.</SimpleData>
+		<SimpleData name="ZIP">19149</SimpleData>
+		<SimpleData name="DAY">Wed</SimpleData>
+		<SimpleData name="TIME">12-4pm</SimpleData>
+		<SimpleData name="MONTHS">June 5th - November 6th</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">19, 24, 67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0762400372753,40.040694677867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kleinlife</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Northeast</SimpleData>
+		<SimpleData name="ADDRESS">Red Lion Rd &amp; Jamison Ave</SimpleData>
+		<SimpleData name="ZIP">19116</SimpleData>
+		<SimpleData name="DAY">Tues</SimpleData>
+		<SimpleData name="TIME">12-4pm</SimpleData>
+		<SimpleData name="MONTHS">May -Nov </SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0218606048861,40.1001181457096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Henry Got Crops</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Northwest </SimpleData>
+		<SimpleData name="ADDRESS">7095 Henry Ave</SimpleData>
+		<SimpleData name="ADDRESS_NOTES">At Saul High School</SimpleData>
+		<SimpleData name="ZIP">19128</SimpleData>
+		<SimpleData name="DAY">Tues, Fri</SimpleData>
+		<SimpleData name="TIME">12-7pm</SimpleData>
+		<SimpleData name="MONTHS">May - November </SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2195711050108,40.0490190995169</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mt. Airy</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Northwest </SimpleData>
+		<SimpleData name="ADDRESS">Carpenter Lane and Greene St.</SimpleData>
+		<SimpleData name="ZIP">19119</SimpleData>
+		<SimpleData name="DAY">Thurs</SimpleData>
+		<SimpleData name="TIME">2-6 pm</SimpleData>
+		<SimpleData name="MONTHS">June 20th - Aug 22nd</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">H</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1959153526179,40.0463866159979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grumblethorpe House</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Northwest</SimpleData>
+		<SimpleData name="ADDRESS">5267 Germantown Ave.</SimpleData>
+		<SimpleData name="ZIP">19144</SimpleData>
+		<SimpleData name="DAY">Sat</SimpleData>
+		<SimpleData name="TIME">9:30am-1:30pm</SimpleData>
+		<SimpleData name="MONTHS">June - Aug</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1685370372311,40.0319771050962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Oak Lane</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Olney/Oak Lane</SimpleData>
+		<SimpleData name="ADDRESS">Ogontz Ave and Walnut Lane</SimpleData>
+		<SimpleData name="ZIP">19138</SimpleData>
+		<SimpleData name="DAY">Tues</SimpleData>
+		<SimpleData name="TIME">2-6pm</SimpleData>
+		<SimpleData name="MONTHS">July 9th - October 29th </SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">6, XH</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1535160003583,40.0642950451907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Food Trust's Market at Cherry Street Pier</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Penns Landing</SimpleData>
+		<SimpleData name="ADDRESS">121 N. Christopher Columbus Blvd</SimpleData>
+		<SimpleData name="ZIP">19106</SimpleData>
+		<SimpleData name="DAY">Saturdays </SimpleData>
+		<SimpleData name="TIME">10 - 2pm</SimpleData>
+		<SimpleData name="MONTHS">July 13th - Novemeber 16th</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1402393309832,39.9527401364919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gorgas Park</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Roxborough/ Manayunk</SimpleData>
+		<SimpleData name="ADDRESS">Ridge Ave and Acorn St.</SimpleData>
+		<SimpleData name="ZIP">19128</SimpleData>
+		<SimpleData name="DAY">Fri</SimpleData>
+		<SimpleData name="TIME">3-7pm</SimpleData>
+		<SimpleData name="MONTHS">May 24th - November 22nd</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y </SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2212958875633,40.0375281444809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pretzel Park</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Roxborough/ Manayunk</SimpleData>
+		<SimpleData name="ADDRESS">4300 Silverwood St.</SimpleData>
+		<SimpleData name="ZIP">19127</SimpleData>
+		<SimpleData name="DAY">Sat</SimpleData>
+		<SimpleData name="TIME">10am-2pm</SimpleData>
+		<SimpleData name="MONTHS">May – October </SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">27, 61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2208322366807,40.0259874682581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Novick Family Urban Farm Stand</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">South</SimpleData>
+		<SimpleData name="ADDRESS">6th &amp; Ritner St</SimpleData>
+		<SimpleData name="ADDRESS_NOTES">Mifflin Park</SimpleData>
+		<SimpleData name="ZIP">19148</SimpleData>
+		<SimpleData name="DAY">Wed</SimpleData>
+		<SimpleData name="TIME">2-6pm</SimpleData>
+		<SimpleData name="MONTHS">May - Sept</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1574354285911,39.9189707403048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22nd &amp; Tasker</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">South</SimpleData>
+		<SimpleData name="ADDRESS">22nd and Tasker St</SimpleData>
+		<SimpleData name="ZIP">19145</SimpleData>
+		<SimpleData name="DAY">Wed</SimpleData>
+		<SimpleData name="TIME">2-6pm</SimpleData>
+		<SimpleData name="MONTHS">July 10th-  Oct 30th</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1814220711753,39.932170940121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broad and Morris</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">South</SimpleData>
+		<SimpleData name="ADDRESS">Broad and Morris Street</SimpleData>
+		<SimpleData name="ZIP">19145</SimpleData>
+		<SimpleData name="DAY">Tues</SimpleData>
+		<SimpleData name="TIME">2-6pm</SimpleData>
+		<SimpleData name="MONTHS">June 11th - September 17th</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1686909506741,39.9292654336042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fountain</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">South</SimpleData>
+		<SimpleData name="ADDRESS">11th and Tasker St</SimpleData>
+		<SimpleData name="ADDRESS_NOTES">On E. Passyunk Ave</SimpleData>
+		<SimpleData name="ZIP">19147</SimpleData>
+		<SimpleData name="DAY">Wed</SimpleData>
+		<SimpleData name="TIME">3-7pm</SimpleData>
+		<SimpleData name="MONTHS">May 15 - November 27th</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">23, 29</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.163092939545,39.929801869548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dickinson Square</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">South</SimpleData>
+		<SimpleData name="ADDRESS">East Moyamensing Ave and Morris St</SimpleData>
+		<SimpleData name="ZIP">19148</SimpleData>
+		<SimpleData name="DAY">Sun</SimpleData>
+		<SimpleData name="TIME">10am-2pm</SimpleData>
+		<SimpleData name="MONTHS">May 19- November 24</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">2,29,47,57</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1511623661624,39.9269713114332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sankofa Community Farm at Bartram’s Garden</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Southwest</SimpleData>
+		<SimpleData name="ADDRESS">54th &amp; Lindbergh Blvd</SimpleData>
+		<SimpleData name="ADDRESS_NOTES">At the entrance to Bartram's Garden</SimpleData>
+		<SimpleData name="ZIP">19143</SimpleData>
+		<SimpleData name="DAY">Thurs</SimpleData>
+		<SimpleData name="TIME">3:30-6:30pm</SimpleData>
+		<SimpleData name="MONTHS">June-November</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y </SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">36 trolley</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2160763250779,39.9327516234112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>58th &amp; Chester</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">Southwest</SimpleData>
+		<SimpleData name="ADDRESS">58th St and Chester Ave.</SimpleData>
+		<SimpleData name="ZIP">19143</SimpleData>
+		<SimpleData name="DAY">Wed</SimpleData>
+		<SimpleData name="TIME">2-6pm</SimpleData>
+		<SimpleData name="MONTHS">July 10th -October 30th</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">13 trolley, G</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2285360591404,39.9357418193926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52nd &amp; Haverford</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">West </SimpleData>
+		<SimpleData name="ADDRESS">52nd St and Haverford Ave.</SimpleData>
+		<SimpleData name="ZIP">19139</SimpleData>
+		<SimpleData name="DAY">Wed</SimpleData>
+		<SimpleData name="TIME">12-4pm</SimpleData>
+		<SimpleData name="MONTHS">June 5th – October 30th</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">30, 52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2245930345067,39.9649051065407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clark Park</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">West </SimpleData>
+		<SimpleData name="ADDRESS">43rd St. and Baltimore Ave.</SimpleData>
+		<SimpleData name="ZIP">19104</SimpleData>
+		<SimpleData name="DAY">Thurs &amp; Sat</SimpleData>
+		<SimpleData name="TIME">Thurs 3-7pm, Sat 10am-2pm</SimpleData>
+		<SimpleData name="MONTHS">Thurs open June 6th – November 27th, Sat open year round</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">13, 30, 34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2092619487418,39.949550820199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Greensgrow West</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">West </SimpleData>
+		<SimpleData name="ADDRESS">5123 Baltimore Ave.</SimpleData>
+		<SimpleData name="ZIP">19143</SimpleData>
+		<SimpleData name="DAY">Sun</SimpleData>
+		<SimpleData name="TIME">12pm- 4pm</SimpleData>
+		<SimpleData name="MONTHS">Mid-June- September</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2263309514294,39.9477842508721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Overbrook</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">West </SimpleData>
+		<SimpleData name="ADDRESS">Lancaster &amp; City Avenue</SimpleData>
+		<SimpleData name="ADDRESS_NOTES">At the Overbrook Presbyterian Church</SimpleData>
+		<SimpleData name="ZIP">19151</SimpleData>
+		<SimpleData name="DAY">Sat</SimpleData>
+		<SimpleData name="TIME">9am-1pm</SimpleData>
+		<SimpleData name="MONTHS">May 25th – November 23rd</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">65, 105, G, R5 Paoli-Thorndale Line</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2540024406933,39.9883139630335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Heritage Farm </name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">West</SimpleData>
+		<SimpleData name="ADDRESS">4300 Monument Rd.</SimpleData>
+		<SimpleData name="ZIP">19131</SimpleData>
+		<SimpleData name="DAY">Thurs</SimpleData>
+		<SimpleData name="TIME">3:30-5:30pm</SimpleData>
+		<SimpleData name="MONTHS">May - September</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">38, 40</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2166792275965,39.997361115344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>University Square</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">West </SimpleData>
+		<SimpleData name="ADDRESS">36th and Walnut St</SimpleData>
+		<SimpleData name="ZIP">19104</SimpleData>
+		<SimpleData name="DAY">Wed</SimpleData>
+		<SimpleData name="TIME">10am-5pm (sunset)</SimpleData>
+		<SimpleData name="MONTHS">January - middle of November </SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.194789105576,39.9531513261396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>W. Philly YMCA Market</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">West</SimpleData>
+		<SimpleData name="ADDRESS">5120 Chestnut St</SimpleData>
+		<SimpleData name="ADDRESS_NOTES">At the West Philly YMCA</SimpleData>
+		<SimpleData name="ZIP">19139</SimpleData>
+		<SimpleData name="DAY">1st &amp; 3rd Fri</SimpleData>
+		<SimpleData name="TIME">10am-2pm</SimpleData>
+		<SimpleData name="MONTHS">June - September</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2245154133249,39.9583876582772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Neighborhood Foods Farm</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">West</SimpleData>
+		<SimpleData name="ADDRESS">608 N. 53rd St</SimpleData>
+		<SimpleData name="ADDRESS_NOTES">Near Neighborhood Foods Farm</SimpleData>
+		<SimpleData name="ZIP">19131</SimpleData>
+		<SimpleData name="DAY">Wed &amp; Sat</SimpleData>
+		<SimpleData name="TIME">Wed: 2pm-6pm, Sat: 10am-2pm</SimpleData>
+		<SimpleData name="MONTHS">Wednesdays: June - August, Saturdays: May – October </SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2268978836898,39.9693858149367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Walnut Hill</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">West</SimpleData>
+		<SimpleData name="ADDRESS">4610 Market St.</SimpleData>
+		<SimpleData name="ZIP">19139</SimpleData>
+		<SimpleData name="DAY">Thurs</SimpleData>
+		<SimpleData name="TIME">4-7pm</SimpleData>
+		<SimpleData name="MONTHS">June- November</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">MFL (46th st stop), 30, 31, 64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.213389004672,39.9585596893732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shepard Rec Market</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">West</SimpleData>
+		<SimpleData name="ADDRESS">5700 Haverford Ave</SimpleData>
+		<SimpleData name="ZIP">19131</SimpleData>
+		<SimpleData name="DAY">Last Tues of the month</SimpleData>
+		<SimpleData name="TIME">12pm-3pm</SimpleData>
+		<SimpleData name="MONTHS">June - October</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="ACCEPT_PHILLY_FOOD_BUCKS_">Y</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2337874393401,39.9680018934627</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mill Creek Farm</name>
+	<ExtendedData><SchemaData schemaUrl="#fd2bf88f_32ba_48c0_a8e0_8d614de7c5e22020328_1_11bsclh.ienj">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="NEIGHBORHOOD">West</SimpleData>
+		<SimpleData name="ADDRESS">4901 Brown St</SimpleData>
+		<SimpleData name="ADDRESS_NOTES">Between 49th and 50th Streets</SimpleData>
+		<SimpleData name="ZIP">19139</SimpleData>
+		<SimpleData name="DAY">Wed &amp; Sat</SimpleData>
+		<SimpleData name="TIME">Wed 1-5pm; Sat 11am-2pm</SimpleData>
+		<SimpleData name="MONTHS">June - Thanksgiving</SimpleData>
+		<SimpleData name="ACCEPT_SNAP_ACCESS">Y</SimpleData>
+		<SimpleData name="ACCEPT_FMNP">Y</SimpleData>
+		<SimpleData name="MAJOR_BUS_SUBWAY_ROUTES">30, 52, 64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2185591697756,39.9661373861241</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
